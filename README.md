@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <td><a href="https://www.cs.cmu.edu/~15414/schedule.html">15-414 Automated Program Verification</a></td>
-      <td></td>
+      <td>Latest</td>
       <td>Carnegie Mellon University</td>
       <td>Automated Program Verification</td>
       <td>Program Verification</td>
@@ -25,14 +25,14 @@
     </tr>
     <tr>
       <td><a href="https://www.cs.utexas.edu/~isil/cs389L/">CS 389L Automated Logical Reasoning</a></td>
-      <td></td>
+      <td>Spring 2021</td>
       <td>University of Texas at Austin</td>
       <td>Automated Logical Reasoning</td>
       <td>Logics</td>
     </tr>
     <tr>
       <td><a href="https://www.sas.upenn.edu/~htowsner/uconnprev/math571s13/index.html?resources">MATH 571 Proof Theorem</a></td>
-      <td>Fall 2015</td>
+      <td>Fall 2013</td>
       <td>University of Pennsylvania</td>
       <td>Proof Theorem</td>
       <td>Logics</td>
@@ -53,49 +53,49 @@
     </tr>
     <tr>
       <td><a href="https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm">6S981 Program Synthesis</a></td>
-      <td></td>
+      <td>Latest</td>
       <td>Massachusetts Institute of Technology</td>
       <td>Program Synthesis</td>
       <td>Program Synthesis</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nadia-polikarpova/cse291-program-synthesis">CSE 291 Program Synthesis</a></td>
-      <td></td>
+      <td>Latest</td>
       <td>University of California San Diego</td>
       <td>Program Synthesis</td>
       <td>Program Synthesis</td>
     </tr>
     <tr>
       <td><a href="https://tai-e.pascal-lab.net/en/lectures.html">Static Program Analysis</a></td>
-      <td></td>
+      <td>Latest</td>
       <td>Nanjing University</td>
       <td>Static Program Analysis</td>
       <td>Static Analysis / Program Analysis</td>
     </tr>
     <tr>
       <td><a href="https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/ementa/">Static Analysis</a></td>
-      <td></td>
+      <td>2021</td>
       <td>Federal University of Minas Gerais</td>
       <td>Static Analysis</td>
       <td>Static Analysis / Program Analysis</td>
     </tr>
     <tr>
       <td><a href="https://software-lab.org/teaching/winter2020/pa/">Program Analysis</a></td>
-      <td></td>
+      <td>Winter 2020</td>
       <td>University of Stuttgart</td>
       <td>Program Analysis</td>
       <td>Static Analysis / Program Analysis</td>
     </tr>
     <tr>
       <td><a href="https://cs.au.dk/~amoeller/spa/">Static Program Analysis</a></td>
-      <td></td>
+      <td>June 2024</td>
       <td>Aarhus University</td>
       <td>Static Program Analysis</td>
       <td>Static Analysis / Program Analysis</td>
     </tr>
     <tr>
       <td><a href="https://textbooks.cs.ksu.edu/cis301/">CIS 301 Logical Foundations of Programming</a></td>
-      <td></td>
+      <td>Latest</td>
       <td>Kansas State University</td>
       <td>Logical Foundations of Programming</td>
       <td>Programming Language Books</td>
@@ -103,7 +103,7 @@
     <tr>
       <td><a href="https://www.plai.org/">Programming Languages: Application and Interpretation</a></td>
       <td></td>
-      <td></td>
+      <td>Brown University</td>
       <td>Programming Languages: Application and Interpretation</td>
       <td>Programming Language Books</td>
     </tr>
@@ -137,7 +137,7 @@
     </tr>
     <tr>
       <td><a href="https://www.cs.cornell.edu/courses/cs6110/2019sp/schedule.html">CS 6110 Advanced Programming Languages</a></td>
-      <td></td>
+      <td>Spring 2019</td>
       <td>Cornell University</td>
       <td>Advanced Programming Languages</td>
       <td>Programming Language</td>
@@ -193,7 +193,7 @@
     </tr>
     <tr>
       <td><a href="https://web.eecs.umich.edu/~weimerw/2008-615/lectures.html">CS 615 Programming Languages</a></td>
-      <td></td>
+      <td>Fall 2018</td>
       <td>University of Michigan</td>
       <td>Programming Languages</td>
       <td>Programming Language</td>
@@ -214,7 +214,7 @@
     </tr>
     <tr>
       <td><a href="https://www.cs.cmu.edu/~aldrich/courses/17-363/">17-363 Programming Language Pragmatics</a></td>
-      <td></td>
+      <td>Latest</td>
       <td>Carnegie Mellon University</td>
       <td>Programming Language Pragmatics</td>
       <td>Programming Language</td>
@@ -228,7 +228,7 @@
     </tr>
     <tr>
       <td><a href="https://www.cs.tufts.edu/comp/250RTS/calsched.html">Run Time System</a></td>
-      <td></td>
+      <td>Fall 2017</td>
       <td>Tufts University</td>
       <td>Run Time System</td>
       <td>Systems</td>
