@@ -18,16 +18,9 @@
     </tr>
     <tr>
       <td><a href="https://opencourse.inf.ed.ac.uk/fv/schedule">Formal Verification</a></td>
-      <td></td>
+      <td>Fall 2023</td>
       <td>University of Edinburgh</td>
       <td>Formal Verification</td>
-      <td>Program Verification</td>
-    </tr>
-    <tr>
-      <td><a href="https://docs.google.com/presentation/d/1z7SHaFhclYOXdVosZehEnu-qvACAi9c8ch2gBWPvXv4/edit?slide=id.g37e1c14372f_0_126#slide=id.g37e1c14372f_0_126">Quickly Generating Diverse Valid Test Inputs with Reinforcement Learning</a></td>
-      <td></td>
-      <td></td>
-      <td>Quickly Generating Diverse Valid Test Inputs with Reinforcement Learning</td>
       <td>Program Verification</td>
     </tr>
     <tr>
