@@ -123,6 +123,12 @@
       <td>June 2024</td>
       <td>Aarhus University</td>
     </tr>
+    <tr>
+      <td><a href="https://www.cs.sfu.ca/~wsumner/teaching/745/25/">Software Engineering</a></td>
+      <td></td>
+      <td>Summer 2025</td>
+      <td>Simon Fraser University</td>
+    </tr>
   </tbody>
 </table>
 
@@ -131,21 +137,38 @@
   <thead>
     <tr>
       <th>Book Name</th>
-      <th>University</th>
+      <th>Authors</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://textbooks.cs.ksu.edu/cis301/">CIS 301 Logical Foundations of Programming</a></td>
-      <td>Kansas State University</td>
+      <td><a href="https://www.cis.upenn.edu/~bcpierce/tapl/index.html">Types and Programming Languages</a></td>
+      <td>Benjamin C. Pierce</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.cis.upenn.edu/~bcpierce/attapl/index.html">Advanced Topics in Types and Programming Languages</a></td>
+      <td>Benjamin C. Pierce</td>
+    </tr>
+    <tr>
+      <td><a href="https://textbooks.cs.ksu.edu/cis301/">CIS 301 Textbook Logical Foundations of Programming</a></td>
+      <td>Julie Thornton</td>
     </tr>
     <tr>
       <td><a href="https://www.plai.org/">Programming Languages: Application and Interpretation</a></td>
-      <td>Brown University</td>
+      <td>Shriram Krishnamurthi</td>
     </tr>
     <tr>
       <td><a href="https://www.cs.cmu.edu/~rwh/pfpl.html">Practical Foundations for Programming Languages</a></td>
-      <td>Carnegie Mellon University</td>
+      <td>Robert Harper</td>
+    </tr>
+    <tr>
+      <td><a href="https://softwarefoundations.cis.upenn.edu/">Software Foundations</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://mitpress.mit.edu/9780262231695/the-formal-semantics-of-programming-languages/">The Formal Semantics of Programming Languages
+An Introduction</a></td>
+      <td>Glynn Winskel</td>
     </tr>
   </tbody>
 </table>
@@ -256,6 +279,18 @@
       <td>6.820</td>
       <td>Fall 2015</td>
       <td>Massachusetts Institute of Technology</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.students.cs.ubc.ca/~cs-311/current/nav/notes.html">Definition of Programming Languages</a></td>
+      <td>CPSC 311</td>
+      <td>Latest</td>
+      <td>University of British Columbia</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.cs.ubc.ca/~rxg/cpsc509-spring-2024/#Resources">Programming Language Principles</a></td>
+      <td>CPSC 509</td>
+      <td>Spring 2024</td>
+      <td>University of British Columbia</td>
     </tr>
   </tbody>
 </table>
