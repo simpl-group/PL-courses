@@ -21,6 +21,12 @@
       <td>Fall 2023</td>
       <td>University of Edinburgh</td>
     </tr>
+    <tr>
+      <td><a href="https://www.cs.utexas.edu/~isil/cs389L/">Automated Logical Reasoning</a></td>
+      <td>CS 389L</td>
+      <td>Spring 2021</td>
+      <td>University of Texas at Austin</td>
+    </tr>
   </tbody>
 </table>
 
@@ -35,12 +41,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://www.cs.utexas.edu/~isil/cs389L/">Automated Logical Reasoning</a></td>
-      <td>CS 389L</td>
-      <td>Spring 2021</td>
-      <td>University of Texas at Austin</td>
-    </tr>
     <tr>
       <td><a href="https://www.sas.upenn.edu/~htowsner/uconnprev/math571s13/index.html?resources">Proof Theorem</a></td>
       <td>MATH 571</td>
@@ -102,12 +102,12 @@
     <tr>
       <td><a href="https://tai-e.pascal-lab.net/en/lectures.html">Static Program Analysis</a></td>
       <td></td>
-      <td>Latest</td>
+      <td>Fall 2023</td>
       <td>Nanjing University</td>
     </tr>
     <tr>
       <td><a href="https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/ementa/">Static Analysis</a></td>
-      <td></td>
+      <td>DCC888</td>
       <td>2021</td>
       <td>Federal University of Minas Gerais</td>
     </tr>
@@ -125,7 +125,7 @@
     </tr>
     <tr>
       <td><a href="https://www.cs.sfu.ca/~wsumner/teaching/745/25/">Software Engineering</a></td>
-      <td></td>
+      <td>CMPT 479</td>
       <td>Summer 2025</td>
       <td>Simon Fraser University</td>
     </tr>
@@ -170,6 +170,11 @@
 An Introduction</a></td>
       <td>Glynn Winskel</td>
     </tr>
+    <tr>
+      <td><a href="https://mitpress.mit.edu/9780262536431/the-little-typer/">The Little Typer
+An Introduction</a></td>
+      <td>Daniel P. Friedman and David Thrane Christiansen</td>
+    </tr>
   </tbody>
 </table>
 
@@ -213,12 +218,6 @@ An Introduction</a></td>
       <td>CS 4110</td>
       <td>Spring 2024</td>
       <td>Cornell University</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.cs.cmu.edu/~fp/">Programming Languages Professor</a></td>
-      <td></td>
-      <td></td>
-      <td>Carnegie Mellon University</td>
     </tr>
     <tr>
       <td><a href="https://fsl.cs.illinois.edu/teaching/2024/cs422/">Programming Languages</a></td>
@@ -292,6 +291,12 @@ An Introduction</a></td>
       <td>Spring 2024</td>
       <td>University of British Columbia</td>
     </tr>
+    <tr>
+      <td><a href="https://cs.nju.edu.cn/xyfeng/teaching/FSPL/lectureNotes/">Formal Semantics of Programming Languages</a></td>
+      <td></td>
+      <td>Fall 2018</td>
+      <td>Nanjing University</td>
+    </tr>
   </tbody>
 </table>
 
@@ -311,6 +316,22 @@ An Introduction</a></td>
       <td></td>
       <td>Fall 2017</td>
       <td>Tufts University</td>
+    </tr>
+  </tbody>
+</table>
+<h2>Misc</h2>
+<table>
+  <thead>
+    <tr>
+      <th> Name </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.cs.cmu.edu/~fp/">Frank Pfenning</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://davidchristiansen.dk/tutorials/">David Thrane Christiansen</a></td>
     </tr>
   </tbody>
 </table>
