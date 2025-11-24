@@ -171,8 +171,7 @@ An Introduction</a></td>
       <td>Glynn Winskel</td>
     </tr>
     <tr>
-      <td><a href="https://mitpress.mit.edu/9780262536431/the-little-typer/">The Little Typer
-An Introduction</a></td>
+      <td><a href="https://mitpress.mit.edu/9780262536431/the-little-typer/">The Little Typer</a></td>
       <td>Daniel P. Friedman and David Thrane Christiansen</td>
     </tr>
   </tbody>
