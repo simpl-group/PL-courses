@@ -27,6 +27,12 @@
       <td>Spring 2021</td>
       <td>University of Texas at Austin</td>
     </tr>
+    <tr>
+      <td><a href="https://15316-cmu.github.io/2024/index.html">Software Foundations of Security & Privacy</a></td>
+      <td>15-316</td>
+      <td>Fall 2024</td>
+      <td>Carnegie Mellon University</td>
+    </tr>
   </tbody>
 </table>
 
@@ -57,6 +63,12 @@
       <td><a href="https://www.cs.cmu.edu/~crary/317-f20/">Constructive Logic</a></td>
       <td>15-317 / 15-657</td>
       <td>Fall 2020</td>
+      <td>Carnegie Mellon University</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.cs.cmu.edu/~fp/courses/15836-f23/">Substructural Logic</a></td>
+      <td>15-836</td>
+      <td>Fall 2023</td>
       <td>Carnegie Mellon University</td>
     </tr>
   </tbody>
@@ -189,9 +201,27 @@ An Introduction</a></td>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.andrew.cmu.edu/course/15-312/schedule.html">Programming Languages</a></td>
+      <td><a href="https://www.cs.cmu.edu/~fp/courses/15312-f04/index.html">Foundations of Programming Languages</a></td>
       <td>15-312</td>
-      <td>Fall 2018</td>
+      <td>Fall 2004</td>
+      <td>Carnegie Mellon University</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.cs.cmu.edu/~rjsimmon/15312-s14/index.html">Foundations of Programming Languages</a></td>
+      <td>15-312</td>
+      <td>Spring 2014</td>
+      <td>Carnegie Mellon University</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.cs.cmu.edu/~iliano/courses/15S-CMU-CS312/syllabus.shtml">Foundations of Programming Languages</a></td>
+      <td>15-312</td>
+      <td>Spring 2015</td>
+      <td>Carnegie Mellon University</td>
+    </tr>
+    <tr>
+      <td><a href="https://web2.qatar.cmu.edu/cs/15312">Foundations of Programming Languages</a></td>
+      <td>15-312</td>
+      <td>Fall 2023</td>
       <td>Carnegie Mellon University</td>
     </tr>
     <tr>
@@ -271,6 +301,12 @@ An Introduction</a></td>
       <td>17-363</td>
       <td>Latest</td>
       <td>Carnegie Mellon University</td>
+    </tr>
+    <tr>
+      <td><a href="https://cs.uwaterloo.ca/~david/cs442/syllabus.html/">Programming Languages</a></td>
+      <td>CS 442/642</td>
+      <td>Latest</td>
+      <td>University of Waterloo</td>
     </tr>
     <tr>
       <td><a href="https://ocw.mit.edu/courses/6-820-fundamentals-of-program-analysis-fall-2015/pages/lecture-notes/">Fundamentals of Program Analysis</a></td>
